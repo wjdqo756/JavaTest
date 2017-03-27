@@ -3,7 +3,8 @@ public class HelloMain {
 	public HelloMain() {}
 	
 	@Override
-	public String toString() {
+	
+public String toString() {
 		return name;
 	}
 	
